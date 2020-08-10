@@ -1,0 +1,63 @@
+{
+    "name": "JavaScript ES-6 Quiz",
+    "license": "MIT",
+    "images": "en/js/banner.png",
+    "question": [
+        {
+            "question": "ES-6 is also known as?",
+            "a": "ECMA 2015",
+            "b": "ECMA 2017",
+            "c": "ECMA 2016",
+            "d": "ECMA 2014",
+            "correct": "a"
+        },
+        {
+            "question": "ES-6 is also known as?",
+            "a": "ECMA 2015",
+            "b": "ECMA 2017",
+            "c": "ECMA 2016",
+            "d": "ECMA 2014",
+            "correct": "c"
+        },
+        {
+            "question": "ES-6 is also known as?",
+            "a": "ECMA 2015",
+            "b": "ECMA 2017",
+            "c": "ECMA 2016",
+            "d": "ECMA 2014",
+            "correct": "d"
+        },
+        {
+            "question": "ES-6 is also known as?",
+            "a": "ECMA 2015",
+            "b": "ECMA 2017",
+            "c": "ECMA 2016",
+            "d": "ECMA 2014",
+            "correct": "a"
+        },
+        {
+            "question": "ES-6 is also known as?",
+            "a": "ECMA 2015",
+            "b": "ECMA 2017",
+            "c": "ECMA 2016",
+            "d": "ECMA 2014",
+            "correct": "d"
+        },
+        {
+            "question": "ES-6 is also known as?",
+            "a": "ECMA 2015",
+            "b": "ECMA 2017",
+            "c": "ECMA 2016",
+            "d": "ECMA 2014",
+            "correct": "c"
+        },
+        {
+            "question": "ES-6 is also known as?",
+            "a": "ECMA 2015",
+            "b": "ECMA 2017",
+            "c": "ECMA 2016",
+            "d": "ECMA 2014",
+            "correct": "b"
+        }
+    ]
+}
