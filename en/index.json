@@ -1,0 +1,9 @@
+{
+    "name": "Quiz Question in English",
+    "license": "MIT",
+    "category": {
+        "javascript": "en/js/index.json",
+        "dart": "en/dart/index.json",
+        "json": "en/json/index.json"
+    }
+}
