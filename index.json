@@ -1,0 +1,8 @@
+{
+    "name": "Quiz Question",
+    "license": "MIT",
+    "language": {
+        "en": "en/index.json",
+        "de": "de/index.json"
+    }
+}
