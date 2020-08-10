@@ -1,0 +1,9 @@
+{
+    "name": "JavaScript Quiz",
+    "license": "MIT",
+    "images": "en/js/banner.png",
+    "quiz": {
+        "basic": "en/js/basic.json",
+        "es-6": "en/js/es-6.json"
+    }
+}
